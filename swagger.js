@@ -11,10 +11,7 @@ const options = {
 
         servers: [
             {
-                url: 'http://localhost:8080'
-            },
-            {
-                url: ''
+                url: 'https://mango-rto6.onrender.com'
             }
         ],
 
